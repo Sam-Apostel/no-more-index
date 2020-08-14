@@ -3,7 +3,10 @@
 # No More Index Changelog
 ## [Unreleased]
 ### Changed
---scan instead of debug
+- some logging to check if the token exists
+## [0.0.5]
+### Changed
+- scan instead of debug
 ## [0.0.3]
 ### Changed
 - Adds some debugging scripts
