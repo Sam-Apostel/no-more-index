@@ -1,13 +1,47 @@
-# No More Index plugin
+# no-more-index
+
 ![Build](https://github.com/Sam-Apostel/no-more-index/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/sam.tigrr.plugins.nomoreindex.svg)](https://plugins.jetbrains.com/plugin/sam.tigrr.plugins.nomoreindex)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/sam.tigrr.plugins.nomoreindex.svg)](https://plugins.jetbrains.com/plugin/sam.tigrr.plugins.nomoreindex)
 
-<!-- Plugin description -->
 
-**INDEX.JS INDEX.JS INDEX.HTML INDEX.PHP INDEX.JS INDEX.HTML INDEX.JS INDEX.HTML**
-    
-Get rid of all the useless wasted tab space when you're naming your main files 'index'.
-This plugin attempts to give you a cleaner view on what files you're editing.
-> <pre>pages/index.js → pages/.js</pre>
+
+![Build](https://github.com/Sam-Apostel/no-more-index/workflows/Build/badge.svg)
+[![Version](https://img.shields.io/jetbrains/plugin/v/sam.tigrr.plugins.nomoreindex.svg)](https://plugins.jetbrains.com/plugin/sam.tigrr.plugins.nomoreindex)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/sam.tigrr.plugins.nomoreindex.svg)](https://plugins.jetbrains.com/plugin/sam.tigrr.plugins.nomoreindex)
+
+## Template ToDo list
+- [x] Create a new [IntelliJ Platform Plugin Template][template] project.
+- [x] Verify the [pluginGroup](/gradle.properties), [plugin ID](/src/main/resources/META-INF/plugin.xml) and [sources package](/src/main/kotlin).
+- [x] Review the [Legal Agreements](https://plugins.jetbrains.com/docs/marketplace/legal-agreements.html).
+- [x] [Publish a plugin manually](https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/publishing_plugin.html) for the first time.
+- [x] Set the Plugin ID in the above README badges.
+- [x] Set the [Deployment Token](https://plugins.jetbrains.com/docs/marketplace/plugin-upload.html).
+- [x] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
+
+<!-- Plugin description -->
+This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.
+
+This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be
+extracted by the [Gradle](/build.gradle.kts) during the build process.
+
+To keep everything working, do not remove `<!-- ... -->` sections. 
 <!-- Plugin description end -->
+
+## Installation
+
+- Using IDE built-in plugin system:
+  
+  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "no-more-index"</kbd> >
+  <kbd>Install Plugin</kbd>
+  
+- Manually:
+
+  Download the [latest release](https://github.com/Sam-Apostel/no-more-index/releases/latest) and install it manually using
+  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
+
+
+---
+Plugin based on the [IntelliJ Platform Plugin Template][template].
+
+[template]: https://github.com/JetBrains/intellij-platform-plugin-template

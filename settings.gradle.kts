@@ -1,1 +1,1 @@
-rootProject.name = "No More Index"
+rootProject.name = "no-more-index"
