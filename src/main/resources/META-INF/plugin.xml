@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>tigrr.sam.plugins.nomoreindex</id>
+    <id>sam.tigrr.plugins.nomoreindex</id>
     <name>No More Index</name>
     <vendor>Tigrr</vendor>
 
@@ -8,12 +8,12 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="tigrr.sam.plugins.nomoreindex.services.MyApplicationService"/>
-        <projectService serviceImplementation="tigrr.sam.plugins.nomoreindex.services.MyProjectService"/>
+        <applicationService serviceImplementation="sam.tigrr.plugins.nomoreindex.services.MyApplicationService"/>
+        <projectService serviceImplementation="sam.tigrr.plugins.nomoreindex.services.MyProjectService"/>
     </extensions>
 
     <projectListeners>
-        <listener class="tigrr.sam.plugins.nomoreindex.listeners.MyProjectManagerListener"
+        <listener class="sam.tigrr.plugins.nomoreindex.listeners.MyProjectManagerListener"
                   topic="com.intellij.openapi.project.ProjectManagerListener"/>
     </projectListeners>
 </idea-plugin>

@@ -1,8 +1,8 @@
-package tigrr.sam.plugins.nomoreindex.listeners
+package sam.tigrr.plugins.nomoreindex.listeners
 
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import tigrr.sam.plugins.nomoreindex.services.MyProjectService
+import sam.tigrr.plugins.nomoreindex.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

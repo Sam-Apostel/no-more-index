@@ -1,6 +1,6 @@
-package tigrr.sam.plugins.nomoreindex.services
+package sam.tigrr.plugins.nomoreindex.services
 
-import tigrr.sam.plugins.nomoreindex.MyBundle
+import sam.tigrr.plugins.nomoreindex.MyBundle
 
 class MyApplicationService {
 

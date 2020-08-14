@@ -3,7 +3,10 @@
 # No More Index Changelog
 ## [Unreleased]
 ### Changed
-- some logging to check if the token exists
+- reverted the package name to sam.tigrr.plugins.nomoreindex
+## [0.0.6]
+### Changed
+- played around with debugging the publisher
 ## [0.0.5]
 ### Changed
 - scan instead of debug

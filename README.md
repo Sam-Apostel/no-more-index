@@ -1,7 +1,7 @@
 # No More Index plugin
 ![Build](https://github.com/Sam-Apostel/no-more-index/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/tigrr.sam.plugins.nomoreindex.svg)](https://plugins.jetbrains.com/plugin/tigrr.sam.plugins.nomoreindex)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/tigrr.sam.plugins.nomoreindex.svg)](https://plugins.jetbrains.com/plugin/tigrr.sam.plugins.nomoreindex)
+[![Version](https://img.shields.io/jetbrains/plugin/v/sam.tigrr.plugins.nomoreindex.svg)](https://plugins.jetbrains.com/plugin/sam.tigrr.plugins.nomoreindex)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/sam.tigrr.plugins.nomoreindex.svg)](https://plugins.jetbrains.com/plugin/sam.tigrr.plugins.nomoreindex)
 
 <!-- Plugin description -->
 
