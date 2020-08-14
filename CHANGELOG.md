@@ -3,6 +3,9 @@
 # No More Index Changelog
 ## [Unreleased]
 ### Changed
+--scan instead of debug
+## [0.0.3]
+### Changed
 - Adds some debugging scripts
 ## [0.0.3]
 ### Changed
