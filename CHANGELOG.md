@@ -1,7 +1,7 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
 # No More Index Changelog
-## [0.0.3]
+## [Unreleased]
 ### Changed
 - Adds a fancy logo
 ## [0.0.2]
