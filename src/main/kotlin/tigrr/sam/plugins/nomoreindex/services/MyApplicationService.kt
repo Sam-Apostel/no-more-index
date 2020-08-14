@@ -1,6 +1,6 @@
-package com.github.sam-apostel.nomoreindex.services
+package tigrr.sam.plugins.nomoreindex.services
 
-import com.github.sam-apostel.nomoreindex.MyBundle
+import tigrr.sam.plugins.nomoreindex.MyBundle
 
 class MyApplicationService {
 

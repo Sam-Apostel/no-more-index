@@ -1,4 +1,4 @@
-package sam.tigrr.plugins.nomoreindex
+package tigrr.sam.plugins.nomoreindex
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

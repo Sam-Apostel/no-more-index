@@ -1,8 +1,8 @@
-package com.github.sam-apostel.nomoreindex.listeners
+package tigrr.sam.plugins.nomoreindex.listeners
 
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import com.github.sam-apostel.nomoreindex.services.MyProjectService
+import tigrr.sam.plugins.nomoreindex.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

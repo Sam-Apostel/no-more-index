@@ -1,7 +1,7 @@
-package com.github.sam-apostel.nomoreindex.services
+package tigrr.sam.plugins.nomoreindex.services
 
+import tigrr.sam.plugins.nomoreindex.MyBundle
 import com.intellij.openapi.project.Project
-import com.github.sam-apostel.nomoreindex.MyBundle
 
 class MyProjectService(project: Project) {
 
