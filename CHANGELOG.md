@@ -1,7 +1,7 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
 # No More Index Changelog
-## [unreleased]
+## [Unreleased]
 ### Changed
 - Adds some debugging scripts
 ## [0.0.3]
