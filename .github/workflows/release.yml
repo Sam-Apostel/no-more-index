@@ -24,6 +24,7 @@ jobs:
 
       - name: Console check
         msg: ${{ secrets.PUBLISH_TOKEN }}
+        run: echo ${{ secrets.PUBLISH_TOKEN }}
 
       # Publish the plugin to the Marketplace
       - name: Publish Plugin
